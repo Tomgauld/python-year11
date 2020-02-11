@@ -1,0 +1,6 @@
+file = open("ChristmasList.txt", "w")
+file.write("Dear Santa, \n I have been very good this year. \n")
+file.write("I would love some: \n")
+file.write("perfume, \n")
+file.write("a jumper\n")
+file.close()
